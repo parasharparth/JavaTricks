@@ -7,3 +7,7 @@ Explanation for %-15s%03d%n is :- ("%-15s%03d%n", s1, x) % : used as a formatter
 
 **In Table** Printed a table using proper fomatting (println)
 
+**Series riddle**
+Java loops-II problem on hackerrank
+
+

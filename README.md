@@ -32,3 +32,6 @@ For each line, print the line number, followed by a single space, and then the l
 **Static initialization blocks**
 Static initialization blocks are executed when the class is loaded, and you can initialize static variables in those blocks.
 In this example, we are calculating the area of parallelogram using the static initialization blocks
+
+**Conversions**
+This is the example for conversions between an integer and string

@@ -38,3 +38,6 @@ This is the example for conversions between an integer and string
 
 **Calender**
 Example for calender class
+
+**Calender Local and Global Date and Time**
+Example for Global Date and Time

@@ -35,3 +35,6 @@ In this example, we are calculating the area of parallelogram using the static i
 
 **Conversions**
 This is the example for conversions between an integer and string
+
+**Calender**
+Example for calender class

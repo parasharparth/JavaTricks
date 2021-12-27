@@ -41,3 +41,6 @@ Example for calender class
 
 **Calender Local and Global Date and Time**
 Example for Global Date and Time
+
+**Comparator**
+Comparator Example

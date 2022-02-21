@@ -44,3 +44,7 @@ Example for Global Date and Time
 
 **Comparator**
 Comparator Example
+
+**Regex Example-1**
+Checking the regex
+

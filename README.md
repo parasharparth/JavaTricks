@@ -48,3 +48,17 @@ Comparator Example
 **Regex Example-1**
 Checking the regex
 
+**Regex Ip Validation**
+Validating the IP address in the format of 
+000.12.12.034
+121.234.12.12
+23.45.12.56
+
+Invalid IP addresses are:- 
+000.12.234.23.23
+666.666.23.23
+.213.123.23.32
+23.45.22.32.
+I.Am.not.an.ip
+
+

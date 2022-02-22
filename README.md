@@ -61,4 +61,6 @@ Invalid IP addresses are:-
 23.45.22.32.
 I.Am.not.an.ip
 
+**Java Regex-Duplicate-Words-removal**
+This program removes any duplicate words from the input provided
 

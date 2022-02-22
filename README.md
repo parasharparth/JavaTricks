@@ -70,3 +70,5 @@ The username consists of 8 to 30 characters inclusive. If the username consists 
 The username can only contain alphanumeric characters and underscores (_). Alphanumeric characters describe the character set consisting of lowercase characters , uppercase characters , and digits .
 The first character of the username must be an alphabetic character, i.e., either lowercase character  or uppercase character .
 
+**HTML AND XML tag Content Extractor**
+TagContentExtractor extracts the tags 
